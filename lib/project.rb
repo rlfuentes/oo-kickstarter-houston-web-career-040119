@@ -9,7 +9,7 @@ class Project
   
   def add_backer(backer)
     add_backer << backer
-    
+    backer.
   
   
   end
